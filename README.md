@@ -1,6 +1,8 @@
 # Self-supervised-CV
 Class project (Fall 19 CV)
- 
+
+Reimplementing and testing MixMatch https://arxiv.org/abs/1905.02249
+
 Please Notice: all the codes are inside code folders.
 
 The Vae folder is the one method that we tried but not chosed.
