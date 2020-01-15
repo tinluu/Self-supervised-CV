@@ -1,4 +1,4 @@
-# Self-supervised-CV
+# Self Supervised STL-10 Image Classification
 Class project (Fall 19 CV)
 
 Reimplementing and testing MixMatch https://arxiv.org/abs/1905.02249
